@@ -247,7 +247,7 @@ This project is licensed under the MIT License.
 
 Developed during **Google Cloud Builders Day 2026** 🚀
 
-- GitHub: https://github.com/rishee01
+- GitHub: https://github.com/rishee-dev
 
 ---
 
